@@ -1,0 +1,12 @@
+from: Alice Array
+subject: Happy new year
+body: |
+    Dear <%= name %>,
+
+    Wish you a very happy new year!
+
+    Thanks,
+    Alice
+to:
+    Bob: bob@mailinator.com
+    Carol: carol@mailinator.com
